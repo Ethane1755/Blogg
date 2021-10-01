@@ -1,6 +1,6 @@
 ---
-title: My Note
-tags: tag1
+title: WLOG
+tags: #obsidian 
 toc: true
 season: winter
 ---
