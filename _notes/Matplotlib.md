@@ -1,3 +1,9 @@
+---
+title: My Note
+tags: tag1
+toc: true
+season: winter
+---
 # Matplotlib 入門
 #python #Matplotlib
 - 引用Matplotlib: import matplotlib.pyplot as plt

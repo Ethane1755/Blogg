@@ -1,3 +1,9 @@
+---
+title: My Note
+tags: tag1
+toc: true
+season: winter
+---
 # WLOG
 #數學 
 ### 定義
