@@ -10,7 +10,7 @@ url: "https://ethane-obsidian.netlify.app/" # the base hostname & protocol for y
 encoding: utf-8
 
 # Build settings
-theme: teXt
+theme: null
 plugins:
   - jekyll-feed 
   - jekyll-sitemap
